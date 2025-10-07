@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi là Từ Công Vinh, sinh viên ngành Công nghệ Thông tin.
+Hiện tại tôi đang học và thực hành về Git, GitHub, và các công cụ quản lý mã nguồn.
+Tôi đam mê lập trình và thích tìm hiểu các công nghệ mới.
+Mục tiêu của tôi là trở thành một kỹ sư phần mềm giỏi, có khả năng làm việc nhóm tốt.
+Tôi luôn cố gắng học hỏi và cải thiện bản thân mỗi ngày.
+
+Sở thích:
+1. Lập trình và thử nghiệm các dự án nhỏ.
+2. Chơi game và đọc truyện khoa học viễn tưởng.
+3. Đá bóng và nghe nhạc.
+
+Kỹ năng:
+1. Lập trình Python và C#.
+2. Sử dụng Git và GitHub trong quản lý dự án.
+3. Làm việc nhóm và giao tiếp hiệu quả.

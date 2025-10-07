@@ -1,4 +1,4 @@
-Giới thiệu cá nhân:
+Hello, this is Tu Cong Vinh
 Tôi là Từ Công Vinh, sinh viên ngành Công nghệ Thông tin.
 Hiện tại tôi đang học và thực hành về Git, GitHub, và các công cụ quản lý mã nguồn.
 Tôi đam mê lập trình và thích tìm hiểu các công nghệ mới.

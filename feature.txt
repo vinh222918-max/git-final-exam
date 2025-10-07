@@ -1,0 +1,7 @@
+Tính năng: Hệ thống thống kê tiến độ học tập
+
+1. Người dùng có thể xem tỷ lệ hoàn thành bài học theo tuần.
+2. Hiển thị biểu đồ tiến độ trực quan bằng biểu đồ cột hoặc tròn.
+3. Cho phép xuất dữ liệu học tập ra file CSV hoặc PDF.
+4. Tự động cập nhật tiến độ khi người dùng hoàn thành bài tập.
+5. Gợi ý lộ trình học tiếp theo dựa trên dữ liệu thống kê.

@@ -1,3 +1,5 @@
 - Git giúp quản lý lịch sử thay đổi mã nguồn rất hiệu quả.
 - Việc làm việc nhóm trở nên dễ dàng nhờ branch, merge và pull request.
 - Ban đầu hơi khó hiểu, nhưng khi quen sẽ thấy Git cực kỳ mạnh mẽ và tiện lợi.
+- Git giúp rèn luyện tư duy làm việc có tổ chức và kỷ luật hơn.
+- Sau khi nắm vững, Git trở thành công cụ không thể thiếu cho mọi lập trình viên.
